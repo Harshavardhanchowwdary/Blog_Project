@@ -1,12 +1,23 @@
-# React + Vite
+This is a full-stack Blog Application built using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js). It includes form validation, user-friendly UI, and interaction between frontend and backend for creating and displaying blogs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Features
+✅ Create blog posts with title and content
 
-Currently, two official plugins are available:
+✅ Form validation on client side (React)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Store blog data in PostgreSQL database
 
-## Expanding the ESLint configuration
+✅ Backend API using Node.js & Express
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Clean and responsive UI using React
+
+✅ Easy to extend and customize
+
+🧰 Tech Stack
+Frontend: React.js, CSS
+
+Backend: Node.js, Express.js
+
+Database: PostgreSQL
+
+Validation: React form validations (HTML5 + custom logic)
