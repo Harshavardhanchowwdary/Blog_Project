@@ -1,0 +1,20 @@
+
+.Banner-contianer{
+    width: 100%;
+    height: 70vh;
+    overflow: hidden;
+    background-image: url('/media/Banner.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: rgb(165, 236, 236);
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 20px;
+}

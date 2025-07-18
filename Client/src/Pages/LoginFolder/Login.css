@@ -1,0 +1,19 @@
+.MainCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aqua;
+}
+form{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 370px;
+}
+h2{
+    color: #494bc7;
+    margin-bottom: 20px;
+    text-align: center;
+}

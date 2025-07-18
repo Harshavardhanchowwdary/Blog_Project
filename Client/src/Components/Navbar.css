@@ -1,0 +1,26 @@
+nav{
+    background-color: rgb(71, 194, 243);
+    color: #222;
+}
+a{
+    color: #222;
+    transition: 0.3s ease-in-out;
+}
+a:hover{
+    color: #000;
+    transform: scale(1.1);
+    text-decoration: none;
+}
+.coloricon{
+    border: 2px solid #222;
+    border-radius: 10px;
+}
+.navbar-light .navbar-toggler
+{
+    border: 2px solid #222;
+}
+ 
+.navbar-light .navbar-toggler:hover
+{
+    border: 2px solid #000;
+}

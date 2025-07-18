@@ -1,0 +1,26 @@
+.DedicatedBlog{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+    background-color: #f9f9f9;
+}
+.div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+.Blogerror{
+    font-size: 40px;
+    color: rgb(27, 28, 28);
+}
+.CategoryHeading{
+    font-size: 30px;
+    color:#222;
+    text-align: center;
+}
+.Predbuit{
+    font-size: 20px;
+    color: #555;
+    text-align: center;
+}
